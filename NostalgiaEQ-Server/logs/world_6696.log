@@ -1,9 +1,0 @@
-[08-03-2021 :: 20:41:56] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
-[INSERT INTO `guild_members` SET `char_id` = 7128, `guild_id` = '1']
-[08-03-2021 :: 20:41:56] [World] [World Server] Race: 1  Class: 2  Gender: 0  Deity: 201  Start zone: 1  Tutorial: true
-[08-03-2021 :: 20:41:56] [World] [World Server]  85  105   75   75   85   75   75     575
-[08-03-2021 :: 20:41:56] [World] [World Server] Current location: qcat (45)  -625.00, 354.00, -35.25, 0.00
-[08-03-2021 :: 20:41:56] [World] [World Server] Bind location: qcat (45) -625.00, 354.00, -35.25
-[08-03-2021 :: 20:41:56] [World] [World Server] Home location: qcat (45) -625.00, 354.00, -35.25
-[08-03-2021 :: 20:41:56] [World] [World Server] Setting to 'qcat' (45:0)
-[08-03-2021 :: 20:41:56] [World] [World Server] Setting to 'qcat' (45:0)

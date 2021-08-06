@@ -1,9 +1,0 @@
-[07-28-2021 :: 12:54:43] [UCS] [Info] Loaded default rule set 'default'
-[07-28-2021 :: 12:54:43] [UCS] [Info] Initialized dynamic dictionary entries
-[07-28-2021 :: 12:54:43] [UCS] [Info] Expiring mail
-[07-28-2021 :: 12:54:43] [UCS] [Info] There are [0] messages in the database
-[07-28-2021 :: 12:54:43] [UCS] [Info] Expired [0] trash messages
-[07-28-2021 :: 12:54:43] [UCS] [Info] Expired [0] read messages
-[07-28-2021 :: 12:54:43] [UCS] [Info] Expired [0] unread messages
-[07-28-2021 :: 12:54:43] [UCS] [Info] Loading [assets/opcodes/mail_opcodes.conf]
-[07-28-2021 :: 12:54:43] [UCS] [Info] Loading chat channels from the database
