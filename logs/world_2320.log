@@ -1,0 +1,7 @@
+[08-03-2021 :: 20:23:34] [World] [Error] Error decrypting message from client
+[08-03-2021 :: 20:23:56] [World] [MySQL Error] [1062] [Duplicate entry 'marcusd-eqemu' for key 'name_ls_id']
+[INSERT INTO account SET name='marcusd', status=0, ls_id='eqemu', lsaccount_id=308605, time_creation=UNIX_TIMESTAMP();]
+[08-03-2021 :: 20:23:58] [World] [MySQL Error] [1062] [Duplicate entry 'marcusd-eqemu' for key 'name_ls_id']
+[INSERT INTO account SET name='marcusd', status=0, ls_id='eqemu', lsaccount_id=308605, time_creation=UNIX_TIMESTAMP();]
+[08-03-2021 :: 20:24:00] [World] [MySQL Error] [1062] [Duplicate entry 'marcusd-eqemu' for key 'name_ls_id']
+[INSERT INTO account SET name='marcusd', status=0, ls_id='eqemu', lsaccount_id=308605, time_creation=UNIX_TIMESTAMP();]

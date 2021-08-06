@@ -1,0 +1,184 @@
+[07-28-2021 :: 12:54:41] [World] [Info] Checking Database Conversions
+[07-28-2021 :: 12:54:42] [World] [Info] Loading variables
+[07-28-2021 :: 12:54:42] [World] [Info] Purging expired data buckets
+[07-28-2021 :: 12:54:42] [World] [Info] Loading zones
+[07-28-2021 :: 12:54:42] [World] [Info] Clearing groups
+[07-28-2021 :: 12:54:42] [World] [Info] Clearing raids
+[07-28-2021 :: 12:54:42] [World] [Info] Clearing inventory snapshots
+[07-28-2021 :: 12:54:42] [World] [Info] Loading items
+[07-28-2021 :: 12:54:42] [World] [Info] [Shared Memory] Attempting to load file [shared/items]
+[07-28-2021 :: 12:54:42] [World] [Info] Loading skill caps
+[07-28-2021 :: 12:54:42] [World] [Info] [Shared Memory] Attempting to load file [shared/skill_caps]
+[07-28-2021 :: 12:54:42] [World] [Info] Loading guilds
+[07-28-2021 :: 12:54:42] [World] [Info] Loaded default rule set [default]
+[07-28-2021 :: 12:54:42] [World] [Info] Initialized dynamic dictionary entries
+[07-28-2021 :: 12:54:42] [World] [Info] Clearing temporary merchant lists
+[07-28-2021 :: 12:54:42] [World] [Info] Loading EQ time of day
+[07-28-2021 :: 12:54:42] [World] [Info] Loading launcher list
+[07-28-2021 :: 12:54:42] [World] [Info] Deleted [0] stale player corpses from database
+[07-28-2021 :: 12:54:42] [World] [Info] Loading adventures
+[07-28-2021 :: 12:54:42] [World] [Info] Purging expired expeditions
+[07-28-2021 :: 12:54:42] [World] [Info] Purging expired instances
+[07-28-2021 :: 12:54:42] [World] [Info] Loading active expeditions
+[07-28-2021 :: 12:54:42] [World] [Info] Loading char create info
+[07-28-2021 :: 12:54:42] [World] [Info] Console (TCP) listener started
+[07-28-2021 :: 12:54:42] [World] [Info] Server (TCP) listener started
+[07-28-2021 :: 12:54:43] [World] [Info] Connected to Loginserver: [45.33.18.111:5998]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [d6f0465e-716c-4e43-86c7-8385827ca25b] at [127.0.0.1:52865]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7000]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [37eb9a55-3ee2-4ce0-9347-95e6260053b7] at [127.0.0.1:52866]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7001]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [12c20058-ea7a-4466-9391-3d7497575dfe] at [127.0.0.1:52867]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7002]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [71681aee-6b23-4646-911e-9abcb4d0e619] at [127.0.0.1:52868]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7003]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [2fb844a7-309e-4ac8-a227-551fb6a95d95] at [127.0.0.1:52869]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7004]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [4fbff4ff-e646-43db-849f-35f56c382d8a] at [127.0.0.1:52871]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7005]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [6f6a1d2f-33f3-4eef-b218-47134098e2d5] at [127.0.0.1:52872]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7006]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [a47ae9e0-46c0-4a82-b3a7-8b849bdee7f1] at [127.0.0.1:52874]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7007]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [27b75711-8f69-4ab3-851f-29b1e679229e] at [127.0.0.1:52875]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7008]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [a7eb9a6b-c757-4113-9155-96c0ddff78ea] at [127.0.0.1:52876]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7009]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [516f54c7-6d7b-4c99-a995-342440b47035] at [127.0.0.1:52878]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7010]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [80e9d78a-e365-4dcc-a8c1-8d43c6d548d6] at [127.0.0.1:52882]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7011]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [599d8c7e-3ee9-4160-9125-15c625d14f31] at [127.0.0.1:52883]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7012]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [88d4a14d-d7b7-4b15-80b1-c6832d8bb84b] at [127.0.0.1:52886]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7013]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [47777677-2c70-44f0-85e8-86bb14e05959] at [127.0.0.1:52887]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7014]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [e010c356-5b7e-4886-9545-55d075bce765] at [127.0.0.1:52890]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7015]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [9625fd27-4555-4fa8-9f33-4273c065f045] at [127.0.0.1:52891]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7016]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [6c81d25b-42e7-4120-bf4e-9031fc517bcb] at [127.0.0.1:52893]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7017]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [6aa0546b-64cd-4dc7-a8f0-df3de5f29036] at [127.0.0.1:52894]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7018]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [59fafd50-b637-4d8d-b3f6-48b53e3481cd] at [127.0.0.1:52895]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7019]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [2686a0ee-6b7f-4947-b28d-a0d15154cb57] at [127.0.0.1:52896]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7020]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [f25fb35d-00c4-4c80-af95-f3e472897e74] at [127.0.0.1:52898]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7021]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [00fb285e-5022-4bee-b476-4c593aaf2eab] at [127.0.0.1:52900]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7022]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [b98950a4-9f5a-45ea-bbfc-8773f7e319ac] at [127.0.0.1:52901]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7023]
+[07-28-2021 :: 12:54:43] [World] [Info] New Zone Server connection from [9033be20-7759-49aa-964a-e7206fad99a8] at [127.0.0.1:52902]
+[07-28-2021 :: 12:54:43] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:43] [World] [Info] Auto zone port configuration. Telling zone to use port [7024]
+[07-28-2021 :: 12:54:43] [World] [Info] New Query Server connection from [665f7451-8aeb-4ba5-bab4-324450f5243e] at [127.0.0.1:52903]
+[07-28-2021 :: 12:54:44] [World] [Info] New UCS Server connection from [32989b1b-e398-464b-b0b9-9cab7a67d3a0] at [127.0.0.1:52904]
+[07-28-2021 :: 12:54:44] [World] [Info] New Zone Server connection from [46c15d24-59d1-4d3a-8c48-90a05020fd5f] at [127.0.0.1:52905]
+[07-28-2021 :: 12:54:44] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:44] [World] [Info] Auto zone port configuration. Telling zone to use port [7025]
+[07-28-2021 :: 12:54:44] [World] [Info] New Zone Server connection from [16727e95-f2a6-4257-86e3-c9e1a7ce60a5] at [127.0.0.1:52906]
+[07-28-2021 :: 12:54:44] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:44] [World] [Info] Auto zone port configuration. Telling zone to use port [7026]
+[07-28-2021 :: 12:54:44] [World] [Info] New Zone Server connection from [e782832a-5370-48ce-93d0-51ff2746f087] at [127.0.0.1:52907]
+[07-28-2021 :: 12:54:44] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:44] [World] [Info] Auto zone port configuration. Telling zone to use port [7027]
+[07-28-2021 :: 12:54:44] [World] [Info] New Zone Server connection from [b8458921-eca0-4bf6-8858-158ec0bfb157] at [127.0.0.1:52908]
+[07-28-2021 :: 12:54:44] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:44] [World] [Info] Auto zone port configuration. Telling zone to use port [7028]
+[07-28-2021 :: 12:54:44] [World] [Info] New Zone Server connection from [e4bdded3-fe9d-4729-962a-8f3b2036ad10] at [127.0.0.1:52909]
+[07-28-2021 :: 12:54:44] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:54:44] [World] [Info] Auto zone port configuration. Telling zone to use port [7029]
+[07-28-2021 :: 12:55:16] [World] [Info] New connection from IP 1761716416:55256
+[07-28-2021 :: 12:55:16] [World] [Info] Checking inbound connection [192.168.1.105] against BannedIPs table
+[07-28-2021 :: 12:55:16] [World] [Info] Connection [192.168.1.105] PASSED banned IPs check. Processing connection
+[07-28-2021 :: 12:55:16] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [7]
+[07-28-2021 :: 12:55:16] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [7] passed
+[07-28-2021 :: 12:55:16] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (3)
+[07-28-2021 :: 12:55:16] [World] [Info] Account (Solemnus) Logging(In) to character select :: LSID [7] 
+[07-28-2021 :: 12:55:16] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (3)
+[07-28-2021 :: 12:55:24] [World] [Info] Attempting autobootup of [neriakb] ([41]:[0])
+[07-28-2021 :: 12:55:24] [World] [Info] (Zepefd) [Zoning from character select] [neriakb] (Zone ID [41]: Instance ID: [0]) 
+[07-28-2021 :: 12:55:25] [World] [Info] Broadcasting a world time update
+[07-28-2021 :: 12:55:25] [World] [Info] Local zone address was [127.0.0.1], setting local address to: [192.168.1.105]
+[07-28-2021 :: 12:55:25] [World] [Info] Sending client to zone [neriakb] ([41]:[0]) at [192.168.1.105]:[7000]
+[07-28-2021 :: 12:55:25] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (4)
+[07-28-2021 :: 12:55:25] [World] [Info] Client disconnected (not active in process)
+[07-28-2021 :: 12:55:25] [World] [Info] Removing client from [192.168.1.105]:[55256]
+[07-28-2021 :: 12:55:27] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (5)
+[07-28-2021 :: 12:55:27] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (5)
+[07-28-2021 :: 12:56:31] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (1)
+[07-28-2021 :: 12:56:31] [World] [Info] New connection from IP 1761716416:48630
+[07-28-2021 :: 12:56:31] [World] [Info] Checking inbound connection [192.168.1.105] against BannedIPs table
+[07-28-2021 :: 12:56:31] [World] [Info] Connection [192.168.1.105] PASSED banned IPs check. Processing connection
+[07-28-2021 :: 12:56:31] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [7]
+[07-28-2021 :: 12:56:31] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [7] passed
+[07-28-2021 :: 12:56:31] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (3)
+[07-28-2021 :: 12:56:31] [World] [Info] Account (Solemnus) Logging(Out) to character select :: LSID [7] 
+[07-28-2021 :: 12:56:31] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (3)
+[07-28-2021 :: 12:56:36] [World] [Info] Delete character: [Zepefd]
+[07-28-2021 :: 12:56:36] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (3)
+[07-28-2021 :: 12:56:38] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (1)
+[07-28-2021 :: 12:56:38] [World] [Info] Client disconnected (not active in process)
+[07-28-2021 :: 12:56:38] [World] [Info] Removing client from [192.168.1.105]:[48630]
+[07-28-2021 :: 12:56:38] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (1)
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Query Server connection from [665f7451-8aeb-4ba5-bab4-324450f5243e]
+[07-28-2021 :: 12:56:45] [World] [Info] Connection lost from UCS Server [32989b1b-e398-464b-b0b9-9cab7a67d3a0]
+[07-28-2021 :: 12:56:45] [World] [Info] Removing currently active UCS connection
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [a7eb9a6b-c757-4113-9155-96c0ddff78ea]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [a47ae9e0-46c0-4a82-b3a7-8b849bdee7f1]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [12c20058-ea7a-4466-9391-3d7497575dfe]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [4fbff4ff-e646-43db-849f-35f56c382d8a]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [71681aee-6b23-4646-911e-9abcb4d0e619]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [37eb9a55-3ee2-4ce0-9347-95e6260053b7]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [2fb844a7-309e-4ac8-a227-551fb6a95d95]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [6f6a1d2f-33f3-4eef-b218-47134098e2d5]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [d6f0465e-716c-4e43-86c7-8385827ca25b]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [599d8c7e-3ee9-4160-9125-15c625d14f31]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [80e9d78a-e365-4dcc-a8c1-8d43c6d548d6]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [516f54c7-6d7b-4c99-a995-342440b47035]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [27b75711-8f69-4ab3-851f-29b1e679229e]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [e4bdded3-fe9d-4729-962a-8f3b2036ad10]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [e782832a-5370-48ce-93d0-51ff2746f087]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [b8458921-eca0-4bf6-8858-158ec0bfb157]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [16727e95-f2a6-4257-86e3-c9e1a7ce60a5]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [46c15d24-59d1-4d3a-8c48-90a05020fd5f]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [9033be20-7759-49aa-964a-e7206fad99a8]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [00fb285e-5022-4bee-b476-4c593aaf2eab]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [b98950a4-9f5a-45ea-bbfc-8773f7e319ac]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [f25fb35d-00c4-4c80-af95-f3e472897e74]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [2686a0ee-6b7f-4947-b28d-a0d15154cb57]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [6aa0546b-64cd-4dc7-a8f0-df3de5f29036]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [59fafd50-b637-4d8d-b3f6-48b53e3481cd]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [6c81d25b-42e7-4120-bf4e-9031fc517bcb]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [e010c356-5b7e-4886-9545-55d075bce765]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [47777677-2c70-44f0-85e8-86bb14e05959]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [9625fd27-4555-4fa8-9f33-4273c065f045]
+[07-28-2021 :: 12:56:45] [World] [Info] Removed Zone Server connection from [88d4a14d-d7b7-4b15-80b1-c6832d8bb84b]

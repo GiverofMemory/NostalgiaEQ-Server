@@ -1,0 +1,59 @@
+[08-01-2021 :: 20:24:20] [World] [World Server] Setting to 'runnyeye' (11:0)
+[08-01-2021 :: 20:24:20] [World] [World Server] Setting to 'runnyeye' (11:0)
+[08-01-2021 :: 20:33:54] [World] [MySQL Error] [1146] [Table 'peq.eqtime' doesn't exist]
+[UPDATE eqtime set minute = 8, hour = 2, day = 14, month = 9, year = 3893, realtime = 1627875234 limit 1]
+[08-01-2021 :: 20:33:54] [World] [Error] Failed to save eqtime
+[08-01-2021 :: 20:34:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]
+[08-01-2021 :: 20:35:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]
+[08-01-2021 :: 20:36:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]
+[08-01-2021 :: 20:37:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]
+[08-01-2021 :: 20:38:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]
+[08-01-2021 :: 20:44:46] [World] [World Server] Setting to 'northkarana' (13:0)
+[08-01-2021 :: 20:44:46] [World] [World Server] Setting to 'northkarana' (13:0)
+[08-01-2021 :: 20:44:59] [World] [World Server] Setting to 'runnyeye' (11:0)
+[08-01-2021 :: 20:46:37] [World] [World Server] Setting to 'nro' (34:0)
+[08-01-2021 :: 20:46:38] [World] [World Server] Setting to 'nro' (34:0)
+[08-01-2021 :: 20:51:58] [World] [World Server] Setting to 'nro' (34:0)
+[08-01-2021 :: 21:03:24] [World] [World Server] Setting to 'nro' (34:0)
+[08-01-2021 :: 21:05:48] [World] [World Server] Setting to 'nro' (34:0)
+[08-01-2021 :: 21:09:29] [World] [World Server] Setting to 'nro' (34:0)
+[08-01-2021 :: 21:28:55] [World] [World Server] Setting to 'nro' (34:0)
+[08-01-2021 :: 21:30:32] [World] [World Server] Setting to 'nro' (34:0)
+[08-01-2021 :: 21:34:42] [World] [World Server] Setting to 'nro' (34:0)
+[08-01-2021 :: 21:36:15] [World] [World Server] Setting to 'nro' (34:0)
+[08-01-2021 :: 21:38:08] [World] [World Server] Setting to 'nro' (34:0)
+[08-01-2021 :: 21:42:06] [World] [World Server] Setting to 'nro' (34:0)
+[08-01-2021 :: 21:43:29] [World] [World Server] Setting to 'nro' (34:0)
+[08-01-2021 :: 22:10:13] [World] [World Server] Setting to 'nro' (34:0)
+[08-01-2021 :: 22:11:56] [World] [World Server] Setting to 'nro' (34:0)
+[08-01-2021 :: 22:14:02] [World] [World Server] Setting to 'nro' (34:0)
+[08-01-2021 :: 22:32:13] [World] [World Server] Setting to 'nro' (34:0)
+[08-01-2021 :: 22:34:45] [World] [World Server] Setting to 'nro' (34:0)
+[08-01-2021 :: 22:36:00] [World] [World Server] Setting to 'nro' (34:0)
+[08-01-2021 :: 22:50:27] [World] [World Server] Setting to 'nro' (34:0)
+[08-01-2021 :: 22:53:10] [World] [World Server] Setting to 'nro' (34:0)
+[08-01-2021 :: 22:57:46] [World] [World Server] Setting to 'gfaydark' (54:0)
+[08-01-2021 :: 22:57:47] [World] [World Server] Setting to 'gfaydark' (54:0)
+[08-01-2021 :: 22:58:03] [World] [World Server] Setting to 'nektulos' (25:0)
+[08-01-2021 :: 22:58:03] [World] [World Server] Setting to 'nektulos' (25:0)
+[08-01-2021 :: 22:58:13] [World] [World Server] Setting to 'kithicor' (20:0)
+[08-01-2021 :: 22:58:14] [World] [World Server] Setting to 'kithicor' (20:0)
+[08-01-2021 :: 22:58:26] [World] [World Server] Setting to 'ecommons' (22:0)
+[08-01-2021 :: 22:58:27] [World] [World Server] Setting to 'ecommons' (22:0)
+[08-01-2021 :: 22:58:48] [World] [World Server] Setting to 'gfaydark' (54:0)
+[08-01-2021 :: 22:58:59] [World] [World Server] Setting to 'nektulos' (25:0)
+[08-01-2021 :: 22:59:09] [World] [World Server] Setting to 'kithicor' (20:0)
+[08-02-2021 :: 07:29:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]
+[08-02-2021 :: 07:30:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]
+[08-02-2021 :: 07:31:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]
+[08-02-2021 :: 07:35:04] [World] [World Server] Setting to 'kithicor' (20:0)
+[08-02-2021 :: 07:35:41] [World] [World Server] Setting to 'runnyeye' (11:0)
+[08-02-2021 :: 07:35:43] [World] [World Server] Setting to 'runnyeye' (11:0)

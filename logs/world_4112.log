@@ -1,0 +1,22 @@
+[07-30-2021 :: 12:14:19] [World] [World Server] Setting to 'gfaydark' (54:0)
+[07-30-2021 :: 12:14:20] [World] [World Server] Setting to 'gfaydark' (54:0)
+[07-30-2021 :: 12:19:16] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7121, `guild_id` = '1']
+[07-30-2021 :: 12:19:16] [World] [World Server] Race: 1  Class: 13  Gender: 0  Deity: 396  Start zone: 1  Tutorial: true
+[07-30-2021 :: 12:19:16] [World] [World Server]  75   90   75   75   75  110   75     575
+[07-30-2021 :: 12:19:16] [World] [World Server] Current location: qeynos (1)  -654.00, 319.00, 3.75, 160.00
+[07-30-2021 :: 12:19:16] [World] [World Server] Bind location: qeynos (1) -654.00, 319.00, 3.75
+[07-30-2021 :: 12:19:16] [World] [World Server] Home location: qeynos (1) -654.00, 319.00, 3.75
+[07-30-2021 :: 12:19:17] [World] [World Server] Setting to 'qeynos' (1:0)
+[07-30-2021 :: 12:19:18] [World] [World Server] Setting to 'qeynos' (1:0)
+[07-30-2021 :: 12:25:49] [World] [World Server] Setting to 'qeynos' (1:0)
+[07-30-2021 :: 12:34:32] [World] [World Server] Setting to 'neriaka' (40:0)
+[07-30-2021 :: 12:34:32] [World] [World Server] Setting to 'neriaka' (40:0)
+[07-30-2021 :: 12:34:51] [World] [World Server] Setting to 'neriakb' (41:0)
+[07-30-2021 :: 12:34:52] [World] [World Server] Setting to 'neriakb' (41:0)
+[07-30-2021 :: 12:34:56] [World] [World Server] Setting to 'neriaka' (40:0)
+[07-30-2021 :: 12:35:18] [World] [World Server] Setting to 'neriakb' (41:0)
+[07-30-2021 :: 12:35:29] [World] [World Server] Setting to 'neriaka' (40:0)
+[07-30-2021 :: 12:35:34] [World] [World Server] Setting to 'neriakb' (41:0)
+[07-30-2021 :: 12:38:25] [World] [World Server] Setting to 'ecommons' (22:0)
+[07-30-2021 :: 12:38:26] [World] [World Server] Setting to 'ecommons' (22:0)

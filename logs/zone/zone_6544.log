@@ -1,0 +1,28 @@
+[08-05-2021 :: 01:08:32] [Zone] [Quests] Tying perl output to eqemu logs
+[08-05-2021 :: 01:08:32] [Zone] [Quests] Creating EQEmuIO=HASH(0xa0323ac)
+[08-05-2021 :: 01:08:32] [Zone] [Quests] Creating EQEmuIO=HASH(0xa0430cc)
+[08-05-2021 :: 01:08:32] [Zone] [Quests] Loading perlemb plugins
+[08-05-2021 :: 01:08:32] [Zone] [Quests] Unable to read perl file 'plugin.pl'
+[08-05-2021 :: 01:08:32] [Zone] [Quests] Subroutine Cwd::fastcwd redefined at C:/Perl/lib/Cwd.pm line 812.
+[08-05-2021 :: 01:08:32] [Zone] [Quests] Subroutine Cwd::getcwd redefined at C:/Perl/lib/Cwd.pm line 812.
+[08-05-2021 :: 01:08:32] [Zone] [Quests] Subroutine Cwd::abs_path redefined at C:/Perl/lib/Cwd.pm line 812.
+[08-05-2021 :: 01:08:32] [Zone] [Quests] Subroutine CalcDestFromHeading redefined at ./plugins//path_tools.pl line 221.
+[08-05-2021 :: 01:08:32] [Zone] [Quests] "my" variable $Item1 masks earlier declaration in same scope at ./plugins//quest_handin.pl line 19.
+[08-05-2021 :: 01:08:32] [Zone] [Quests] "my" variable $Item2 masks earlier declaration in same scope at ./plugins//quest_handin.pl line 21.
+[08-05-2021 :: 01:08:32] [Zone] [Quests] "my" variable $Item3 masks earlier declaration in same scope at ./plugins//quest_handin.pl line 23.
+[08-05-2021 :: 01:08:32] [Zone] [Quests] "my" variable $Item4 masks earlier declaration in same scope at ./plugins//quest_handin.pl line 25.
+[08-05-2021 :: 01:08:32] [Zone] [Quests] Subroutine RandomRange redefined at ./plugins//random_utils.pl line 3.
+[08-05-2021 :: 01:08:32] [Zone] [Quests] Subroutine moelib_spawn_block redefined at ./plugins//spawn_utils.pl line 2.
+[08-05-2021 :: 01:08:32] [Zone] [Quests] Subroutine moelib_spawn_block_center redefined at ./plugins//spawn_utils.pl line 23.
+[08-05-2021 :: 01:08:32] [Zone] [Quests] Subroutine moelib_spawn_circle redefined at ./plugins//spawn_utils.pl line 45.
+[08-05-2021 :: 01:08:32] [Zone] [Quests] Subroutine GetMaxLoSDistFromHeading redefined at ./plugins//spawn_utils.pl line 71.
+[08-05-2021 :: 01:08:32] [Zone] [Quests] Subroutine FaceBestHeading redefined at ./plugins//spawn_utils.pl line 134.
+[08-05-2021 :: 01:08:32] [Zone] [Quests] Subroutine HeadingToShortestLoS redefined at ./plugins//spawn_utils.pl line 204.
+[08-05-2021 :: 01:08:32] [Zone] [Quests] Subroutine MoveAwayFromWall redefined at ./plugins//spawn_utils.pl line 268.
+[08-05-2021 :: 01:08:32] [Zone] [Quests] Subroutine MoveToFirstBestZ redefined at ./plugins//spawn_utils.pl line 340.
+[08-05-2021 :: 01:08:32] [Zone] [Quests] Subroutine SpawnZone redefined at ./plugins//spawn_utils.pl line 373.
+[08-05-2021 :: 01:08:32] [Zone] [Quests] Subroutine GetReverseHeading redefined at ./plugins//spawn_utils.pl line 456.
+[08-05-2021 :: 01:08:32] [Zone] [Quests] Subroutine ConvertHeadingToDegrees redefined at ./plugins//spawn_utils.pl line 477.
+[08-05-2021 :: 01:08:32] [Zone] [Quests] Subroutine vtell redefined at ./plugins//voicetell.pl line 6.
+[08-05-2021 :: 01:08:32] [Zone] [Quests] Subroutine Autovtell redefined at ./plugins//voicetell.pl line 56.
+[08-05-2021 :: 17:12:08] [Zone] [Quests] Terminating on signal SIGHUP(1)

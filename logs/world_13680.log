@@ -1,0 +1,13 @@
+[07-29-2021 :: 18:02:23] [World] [World Server] Setting to 'freportw' (9:0)
+[07-29-2021 :: 18:02:23] [World] [World Server] Setting to 'freportw' (9:0)
+[07-29-2021 :: 18:21:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]
+[07-29-2021 :: 18:21:51] [World] [MySQL Error] [1146] [Table 'peq.eqtime' doesn't exist]
+[UPDATE eqtime set minute = 0, hour = 17, day = 2, month = 6, year = 3893, realtime = 1627546911 limit 1]
+[07-29-2021 :: 18:21:51] [World] [Error] Failed to save eqtime
+[07-29-2021 :: 18:22:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]
+[07-29-2021 :: 18:23:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]
+[07-29-2021 :: 18:24:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]

@@ -1,0 +1,256 @@
+[07-28-2021 :: 12:45:45] [World] [Info] Checking Database Conversions
+[07-28-2021 :: 12:45:46] [World] [Info] Loading variables
+[07-28-2021 :: 12:45:46] [World] [Info] Purging expired data buckets
+[07-28-2021 :: 12:45:46] [World] [Info] Loading zones
+[07-28-2021 :: 12:45:46] [World] [Info] Clearing groups
+[07-28-2021 :: 12:45:46] [World] [Info] Clearing raids
+[07-28-2021 :: 12:45:46] [World] [Info] Clearing inventory snapshots
+[07-28-2021 :: 12:45:46] [World] [Info] Loading items
+[07-28-2021 :: 12:45:46] [World] [Info] [Shared Memory] Attempting to load file [shared/items]
+[07-28-2021 :: 12:45:46] [World] [Info] Loading skill caps
+[07-28-2021 :: 12:45:46] [World] [Info] [Shared Memory] Attempting to load file [shared/skill_caps]
+[07-28-2021 :: 12:45:46] [World] [Info] Loading guilds
+[07-28-2021 :: 12:45:46] [World] [Info] Rule [Expedition:EnableInDynamicZoneStatus] no longer exists... Deleting orphaned entry from `rule_values` table...
+[07-28-2021 :: 12:45:46] [World] [Info] [1] Orphaned Rule(s) Deleted from [All Rulesets] (-1)
+[07-28-2021 :: 12:45:46] [World] [Info] Adding new rule [Aggro:AggroPlayerPets] ruleset [default] (1) value [false]
+[07-28-2021 :: 12:45:46] [World] [Info] Adding new rule [Character:EnableTestBuff] ruleset [default] (1) value [false]
+[07-28-2021 :: 12:45:46] [World] [Info] Adding new rule [Character:PVPEnableGuardFactionAssist] ruleset [default] (1) value [true]
+[07-28-2021 :: 12:45:46] [World] [Info] Adding new rule [Character:SkillUpFromItems] ruleset [default] (1) value [true]
+[07-28-2021 :: 12:45:46] [World] [Info] Adding new rule [Combat:Classic2HBAnimation] ruleset [default] (1) value [false]
+[07-28-2021 :: 12:45:46] [World] [Info] Adding new rule [DynamicZone:EnableInDynamicZoneStatus] ruleset [default] (1) value [false]
+[07-28-2021 :: 12:45:46] [World] [Info] Adding new rule [Pets:LivelikeBreakCharmOnInvis] ruleset [default] (1) value [true]
+[07-28-2021 :: 12:45:46] [World] [Info] Adding new rule [Spells:AllowDoubleInvis] ruleset [default] (1) value [false]
+[07-28-2021 :: 12:45:46] [World] [Info] Adding new rule [Spells:AllowSpellMemorizeFromItem] ruleset [default] (1) value [false]
+[07-28-2021 :: 12:45:46] [World] [Info] Adding new rule [Spells:CazicTouchTargetsPetOwner] ruleset [default] (1) value [true]
+[07-28-2021 :: 12:45:46] [World] [Info] Adding new rule [Spells:PreventFactionWarOnCharmBreak] ruleset [default] (1) value [false]
+[07-28-2021 :: 12:45:46] [World] [Info] Adding new rule [Zone:SpawnEventMin] ruleset [default] (1) value [3]
+[07-28-2021 :: 12:45:46] [World] [Info] [12] New rule(s) added to ruleset [default] [1]
+[07-28-2021 :: 12:45:46] [World] [Info] Loaded default rule set [default]
+[07-28-2021 :: 12:45:46] [World] [Info] Initialized dynamic dictionary entries
+[07-28-2021 :: 12:45:46] [World] [Info] Clearing temporary merchant lists
+[07-28-2021 :: 12:45:46] [World] [Info] Loading EQ time of day
+[07-28-2021 :: 12:45:46] [World] [Info] Loading launcher list
+[07-28-2021 :: 12:45:46] [World] [Info] Deleted [0] stale player corpses from database
+[07-28-2021 :: 12:45:46] [World] [Info] Loading adventures
+[07-28-2021 :: 12:45:46] [World] [Info] Purging expired expeditions
+[07-28-2021 :: 12:45:46] [World] [Info] Purging expired instances
+[07-28-2021 :: 12:45:46] [World] [Info] Loading active expeditions
+[07-28-2021 :: 12:45:46] [World] [Info] Loading char create info
+[07-28-2021 :: 12:45:46] [World] [Info] Console (TCP) listener started
+[07-28-2021 :: 12:45:46] [World] [Info] Server (TCP) listener started
+[07-28-2021 :: 12:45:46] [World] [Info] Connected to Loginserver: [45.33.18.111:5998]
+[07-28-2021 :: 12:45:47] [World] [Info] New Zone Server connection from [ef20a615-e166-445b-904c-8484c080cca5] at [127.0.0.1:55524]
+[07-28-2021 :: 12:45:47] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:47] [World] [Info] Auto zone port configuration. Telling zone to use port [7000]
+[07-28-2021 :: 12:45:47] [World] [Info] New Zone Server connection from [351a5e40-7841-46bc-af22-99da474ceb12] at [127.0.0.1:55525]
+[07-28-2021 :: 12:45:47] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:47] [World] [Info] Auto zone port configuration. Telling zone to use port [7001]
+[07-28-2021 :: 12:45:47] [World] [Info] New Zone Server connection from [ffbad3ad-3950-43d5-9366-89e51ff89470] at [127.0.0.1:55526]
+[07-28-2021 :: 12:45:47] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:47] [World] [Info] Auto zone port configuration. Telling zone to use port [7002]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [9def478d-c41b-4c83-b59c-d6a119c3905c] at [127.0.0.1:55527]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7003]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [66d194c6-7f1f-493c-becd-f3b094cd7014] at [127.0.0.1:55529]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7004]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [6fa75983-b45f-40be-9e52-afe0caca2e59] at [127.0.0.1:55528]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7005]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [df15eb29-2fcc-44cb-9f94-2c9c851e6000] at [127.0.0.1:55530]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7006]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [89c22e9e-2650-4c54-9d74-70263091dd35] at [127.0.0.1:55531]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7007]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [7155fe51-22a9-45f3-b2a7-3e70151acba0] at [127.0.0.1:55532]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7008]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [d682b527-9caa-4939-aeb5-fd55b9b4b977] at [127.0.0.1:55534]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7009]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [b33e7055-b610-4a64-9243-99ab3e1dd215] at [127.0.0.1:55535]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7010]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [a02a509e-2057-429f-8a39-808ff4f6ac8d] at [127.0.0.1:55533]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7011]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [711059b6-29a4-46b7-a8e0-636c7e73de2a] at [127.0.0.1:55536]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7012]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [b19f7fe0-238e-427f-acd2-1c146d42d969] at [127.0.0.1:55537]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7013]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [8cec48dc-80df-4abc-9ea8-fa4313c0483f] at [127.0.0.1:55538]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7014]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [e9494369-7852-4a27-a4ef-14564fb36e7f] at [127.0.0.1:55539]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7015]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [ba3c52cd-1494-4023-b2dd-8c406e6b9557] at [127.0.0.1:55540]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7016]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [dfef73e7-b5d3-4f13-818d-9118246a5f53] at [127.0.0.1:55542]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7017]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [ae573090-d0b2-49cb-8388-4b2189ac4cb2] at [127.0.0.1:55541]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7018]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [a4b93137-6d98-4be9-8ae0-1a93489bb3e8] at [127.0.0.1:55543]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7019]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [c3d327bd-c1c5-46b3-9ada-675e3727ef4a] at [127.0.0.1:55544]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7020]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [88398b50-f37d-44b3-b845-359d7cf9776d] at [127.0.0.1:55545]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7021]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [b014e600-e6df-4666-9620-e6ac209fffda] at [127.0.0.1:55546]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7022]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [e066b0d4-dfb4-4c5d-a05c-e6c125155042] at [127.0.0.1:55548]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7023]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [60267765-9e13-41f2-afd6-f1796862117c] at [127.0.0.1:55549]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7024]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [b1ae56c1-9090-4488-96e5-f1cf8030cf3a] at [127.0.0.1:55550]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7025]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [8d30b351-7a99-4869-8d00-4feb9dad5860] at [127.0.0.1:55552]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7026]
+[07-28-2021 :: 12:45:48] [World] [Info] New Query Server connection from [9190d7a0-6d8e-4098-81b4-4fcc7d2ae0bf] at [127.0.0.1:55553]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [50262ce3-d388-442d-a373-7d962cc8402f] at [127.0.0.1:55554]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7027]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [11382b85-3ef1-4530-ac2b-5c78546387ef] at [127.0.0.1:55555]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7028]
+[07-28-2021 :: 12:45:48] [World] [Info] New Zone Server connection from [2c8388bf-94c6-4d3c-852b-bcd9f05eed4a] at [127.0.0.1:55556]
+[07-28-2021 :: 12:45:48] [World] [Info] Zone started with name [.] by launcher [NONE]
+[07-28-2021 :: 12:45:48] [World] [Info] Auto zone port configuration. Telling zone to use port [7029]
+[07-28-2021 :: 12:45:48] [World] [Info] New UCS Server connection from [e19ac32c-ebfa-464b-a54a-8ab143e383ff] at [127.0.0.1:55557]
+[07-28-2021 :: 12:46:13] [World] [Info] New connection from IP 1761716416:53953
+[07-28-2021 :: 12:46:13] [World] [Info] Checking inbound connection [192.168.1.105] against BannedIPs table
+[07-28-2021 :: 12:46:13] [World] [Info] Connection [192.168.1.105] PASSED banned IPs check. Processing connection
+[07-28-2021 :: 12:46:13] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [7]
+[07-28-2021 :: 12:46:13] [World] [Info] Account Attempting to be created: [local:Solemnus] status: 0
+[07-28-2021 :: 12:46:13] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [7] passed
+[07-28-2021 :: 12:46:13] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (3)
+[07-28-2021 :: 12:46:13] [World] [Info] Account (Solemnus) Logging(In) to character select :: LSID [7] 
+[07-28-2021 :: 12:46:13] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (3)
+[07-28-2021 :: 12:46:44] [World] [Info] Name approval request. Name=[Crikkend], race=[Wood Elf], class=[Bard]
+[07-28-2021 :: 12:46:44] [World] [Info] Character creation request from [Solemnus] LS#[7] ([192.168.1.105]:[53953]) : 
+[07-28-2021 :: 12:46:44] [World] [Info] Name: [Crikkend]
+[07-28-2021 :: 12:46:44] [World] [Info] STR  STA  AGI  DEX  WIS  INT  CHA    Total
+[07-28-2021 :: 12:46:44] [World] [Info] Face: [1]  Eye colors: [0] [0]
+[07-28-2021 :: 12:46:44] [World] [Info] Hairstyle: [0]  Haircolor: [0]
+[07-28-2021 :: 12:46:44] [World] [Info] Beard: [0]  Beardcolor: [0]
+[07-28-2021 :: 12:46:44] [World] [Info] Validating char creation info
+[07-28-2021 :: 12:46:44] [World] [Info] Found [0] errors in character creation request
+[07-28-2021 :: 12:46:44] [World] [Info] Found 'TitaniumStartZoneID' rule setting: [-1]
+[07-28-2021 :: 12:46:44] [World] [Info] Titanium Start zone query: [SELECT x, y, z, heading, start_zone, bind_id, bind_x, bind_y, bind_z FROM start_zones WHERE player_choice = 9 AND player_class = 8 AND player_deity = 396 AND player_race = 4  AND (min_expansion <= 99 OR min_expansion = 0) AND (max_expansion >= 99 OR max_expansion = 0) AND (content_flags IS NULL)  AND (content_flags_disabled IS NULL) ]
+
+[07-28-2021 :: 12:46:44] [World] [Info] SoF Start zone query: [SELECT x, y, z, heading, start_zone, bind_id, bind_x, bind_y, bind_z FROM start_zones WHERE player_choice = 9 AND player_class = 8 AND player_deity = 396 AND player_race = 4  AND (min_expansion <= 99 OR min_expansion = 0) AND (max_expansion >= 99 OR max_expansion = 0) AND (content_flags IS NULL)  AND (content_flags_disabled IS NULL) ]
+
+[07-28-2021 :: 12:46:44] [World] [Info] Found starting location in start_zones
+[07-28-2021 :: 12:46:44] [World] [Info] Character creation successful: [Crikkend]
+[07-28-2021 :: 12:46:44] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (3)
+[07-28-2021 :: 12:46:44] [World] [Info] Attempting autobootup of [tutorialb] ([189]:[0])
+[07-28-2021 :: 12:46:45] [World] [Info] (Crikkend) [Zoning from character select] [tutorialb] (Zone ID [189]: Instance ID: [0]) 
+[07-28-2021 :: 12:46:45] [World] [Info] Broadcasting a world time update
+[07-28-2021 :: 12:46:45] [World] [Info] Local zone address was [127.0.0.1], setting local address to: [192.168.1.105]
+[07-28-2021 :: 12:46:45] [World] [Info] Sending client to zone [tutorialb] ([189]:[0]) at [192.168.1.105]:[7000]
+[07-28-2021 :: 12:46:45] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (4)
+[07-28-2021 :: 12:46:45] [World] [Info] Client disconnected (not active in process)
+[07-28-2021 :: 12:46:45] [World] [Info] Removing client from [192.168.1.105]:[53953]
+[07-28-2021 :: 12:47:08] [World] [Info] New connection from IP 1761716416:27124
+[07-28-2021 :: 12:47:09] [World] [Info] Checking inbound connection [192.168.1.105] against BannedIPs table
+[07-28-2021 :: 12:47:09] [World] [Info] Connection [192.168.1.105] PASSED banned IPs check. Processing connection
+[07-28-2021 :: 12:47:09] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [7]
+[07-28-2021 :: 12:47:09] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [7] passed
+[07-28-2021 :: 12:47:09] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (3)
+[07-28-2021 :: 12:47:09] [World] [Info] Account (Solemnus) Logging(In) to character select :: LSID [7] 
+[07-28-2021 :: 12:47:09] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (3)
+[07-28-2021 :: 12:47:19] [World] [Info] Delete character: [Crikkend]
+[07-28-2021 :: 12:47:19] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (3)
+[07-28-2021 :: 12:48:12] [World] [Info] Name approval request. Name=[Zepefd], race=[Dark Elf], class=[Enchanter]
+[07-28-2021 :: 12:48:12] [World] [Info] Character creation request from [Solemnus] LS#[7] ([192.168.1.105]:[27124]) : 
+[07-28-2021 :: 12:48:12] [World] [Info] Name: [Zepefd]
+[07-28-2021 :: 12:48:12] [World] [Info] STR  STA  AGI  DEX  WIS  INT  CHA    Total
+[07-28-2021 :: 12:48:12] [World] [Info] Face: [3]  Eye colors: [0] [0]
+[07-28-2021 :: 12:48:12] [World] [Info] Hairstyle: [0]  Haircolor: [0]
+[07-28-2021 :: 12:48:12] [World] [Info] Beard: [0]  Beardcolor: [0]
+[07-28-2021 :: 12:48:12] [World] [Info] Validating char creation info
+[07-28-2021 :: 12:48:12] [World] [Info] Found [0] errors in character creation request
+[07-28-2021 :: 12:48:12] [World] [Info] Found 'TitaniumStartZoneID' rule setting: [-1]
+[07-28-2021 :: 12:48:12] [World] [Info] Titanium Start zone query: [SELECT x, y, z, heading, start_zone, bind_id, bind_x, bind_y, bind_z FROM start_zones WHERE player_choice = 5 AND player_class = 14 AND player_deity = 396 AND player_race = 6  AND (min_expansion <= 99 OR min_expansion = 0) AND (max_expansion >= 99 OR max_expansion = 0) AND (content_flags IS NULL)  AND (content_flags_disabled IS NULL) ]
+
+[07-28-2021 :: 12:48:12] [World] [Info] SoF Start zone query: [SELECT x, y, z, heading, start_zone, bind_id, bind_x, bind_y, bind_z FROM start_zones WHERE player_choice = 5 AND player_class = 14 AND player_deity = 396 AND player_race = 6  AND (min_expansion <= 99 OR min_expansion = 0) AND (max_expansion >= 99 OR max_expansion = 0) AND (content_flags IS NULL)  AND (content_flags_disabled IS NULL) ]
+
+[07-28-2021 :: 12:48:12] [World] [Info] Found starting location in start_zones
+[07-28-2021 :: 12:48:12] [World] [Info] Character creation successful: [Zepefd]
+[07-28-2021 :: 12:48:12] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (3)
+[07-28-2021 :: 12:48:15] [World] [Info] Attempting autobootup of [neriakb] ([41]:[0])
+[07-28-2021 :: 12:48:15] [World] [Info] (Zepefd) [Zoning from character select] [neriakb] (Zone ID [41]: Instance ID: [0]) 
+[07-28-2021 :: 12:48:15] [World] [Info] Broadcasting a world time update
+[07-28-2021 :: 12:48:15] [World] [Info] Local zone address was [127.0.0.1], setting local address to: [192.168.1.105]
+[07-28-2021 :: 12:48:15] [World] [Info] Sending client to zone [neriakb] ([41]:[0]) at [192.168.1.105]:[7001]
+[07-28-2021 :: 12:48:15] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (4)
+[07-28-2021 :: 12:48:15] [World] [Info] Client disconnected (not active in process)
+[07-28-2021 :: 12:48:15] [World] [Info] Removing client from [192.168.1.105]:[27124]
+[07-28-2021 :: 12:48:20] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (5)
+[07-28-2021 :: 12:48:20] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (5)
+[07-28-2021 :: 12:51:36] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (1)
+[07-28-2021 :: 12:52:40] [World] [Info] New connection from IP 1761716416:32492
+[07-28-2021 :: 12:52:40] [World] [Info] Checking inbound connection [192.168.1.105] against BannedIPs table
+[07-28-2021 :: 12:52:40] [World] [Info] Connection [192.168.1.105] PASSED banned IPs check. Processing connection
+[07-28-2021 :: 12:52:40] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [7]
+[07-28-2021 :: 12:52:40] [World] [Client Login] [HandleSendLoginInfoPacket] Checking Auth id [7] passed
+[07-28-2021 :: 12:52:40] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (3)
+[07-28-2021 :: 12:52:40] [World] [Info] Account (Solemnus) Logging(In) to character select :: LSID [7] 
+[07-28-2021 :: 12:52:40] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (3)
+[07-28-2021 :: 12:52:48] [World] [Info] (Zepefd) [Zoning from character select] [neriakb] (Zone ID [41]: Instance ID: [0]) 
+[07-28-2021 :: 12:52:48] [World] [Info] Local zone address was [127.0.0.1], setting local address to: [192.168.1.105]
+[07-28-2021 :: 12:52:48] [World] [Info] Sending client to zone [neriakb] ([41]:[0]) at [192.168.1.105]:[7001]
+[07-28-2021 :: 12:52:48] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (4)
+[07-28-2021 :: 12:52:48] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (1)
+[07-28-2021 :: 12:52:48] [World] [Info] Client disconnected (not active in process)
+[07-28-2021 :: 12:52:48] [World] [Info] Removing client from [192.168.1.105]:[32492]
+[07-28-2021 :: 12:52:51] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (5)
+[07-28-2021 :: 12:52:51] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (5)
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Query Server connection from [9190d7a0-6d8e-4098-81b4-4fcc7d2ae0bf]
+[07-28-2021 :: 12:53:38] [World] [Info] Connection lost from UCS Server [e19ac32c-ebfa-464b-a54a-8ab143e383ff]
+[07-28-2021 :: 12:53:38] [World] [Info] Removing currently active UCS connection
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [88398b50-f37d-44b3-b845-359d7cf9776d]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [c3d327bd-c1c5-46b3-9ada-675e3727ef4a]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [b014e600-e6df-4666-9620-e6ac209fffda]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [711059b6-29a4-46b7-a8e0-636c7e73de2a]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [8cec48dc-80df-4abc-9ea8-fa4313c0483f]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [d682b527-9caa-4939-aeb5-fd55b9b4b977]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [b1ae56c1-9090-4488-96e5-f1cf8030cf3a]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [b19f7fe0-238e-427f-acd2-1c146d42d969]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [b33e7055-b610-4a64-9243-99ab3e1dd215]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [dfef73e7-b5d3-4f13-818d-9118246a5f53]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [a4b93137-6d98-4be9-8ae0-1a93489bb3e8]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [89c22e9e-2650-4c54-9d74-70263091dd35]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [6fa75983-b45f-40be-9e52-afe0caca2e59]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [ef20a615-e166-445b-904c-8484c080cca5]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [df15eb29-2fcc-44cb-9f94-2c9c851e6000]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [ba3c52cd-1494-4023-b2dd-8c406e6b9557]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [351a5e40-7841-46bc-af22-99da474ceb12]
+[07-28-2021 :: 12:53:38] [World] [Client Login] ClientListEntry::SetOnline for [Solemnus] (1) = [Online] (1)
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [2c8388bf-94c6-4d3c-852b-bcd9f05eed4a]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [11382b85-3ef1-4530-ac2b-5c78546387ef]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [50262ce3-d388-442d-a373-7d962cc8402f]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [8d30b351-7a99-4869-8d00-4feb9dad5860]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [ae573090-d0b2-49cb-8388-4b2189ac4cb2]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [66d194c6-7f1f-493c-becd-f3b094cd7014]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [7155fe51-22a9-45f3-b2a7-3e70151acba0]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [e9494369-7852-4a27-a4ef-14564fb36e7f]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [e066b0d4-dfb4-4c5d-a05c-e6c125155042]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [9def478d-c41b-4c83-b59c-d6a119c3905c]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [60267765-9e13-41f2-afd6-f1796862117c]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [a02a509e-2057-429f-8a39-808ff4f6ac8d]
+[07-28-2021 :: 12:53:38] [World] [Info] Removed Zone Server connection from [ffbad3ad-3950-43d5-9366-89e51ff89470]
