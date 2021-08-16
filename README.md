@@ -9,7 +9,7 @@
 
 ## Server Installs
 |Windows|
-
+|:---:|
 ### > Windows 
 
 * Simply download or [clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) this repository, and double click "t_start_server_with_login_server.bat" 
