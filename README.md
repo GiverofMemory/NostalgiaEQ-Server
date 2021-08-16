@@ -2,7 +2,7 @@
 
 ***
 
-### See Related Repositories at the bottom to find precompiled server as well as database and client.
+### See Related Repositories at the bottom to find the uncompiled Core Server as well as database and client.
 
 #### NostalgiaEQ Server is a precompiled windows version of our [Core Server](https://github.com/vire70/Server) which is a custom completely from-scratch open source server implementation for EverQuest built mostly on C++**
 
