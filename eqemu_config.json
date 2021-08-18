@@ -35,6 +35,7 @@
          "key" : "3Nvq79koqlLd3OGcjQx8QJg5kDpzKK4",
          "loginserver1" : {
             "account" : "",
+	    "legacy" : "2",
             "host" : "login.nostalgiaeq.com",
             "password" : "",
             "port" : "5998"
@@ -52,7 +53,7 @@
 	    "legacy" : "1",
             "port" : "5998"
          },
-         "longname" : "Xire's testbed - [change in eqemu_config.json]",
+         "longname" : "Xire's testbed - [NEQ]",
          "shortname" : "xire",
          "tcp" : {
             "ip" : "127.0.0.1",
