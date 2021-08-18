@@ -53,7 +53,7 @@
 	    "legacy" : "1",
             "port" : "5998"
          },
-         "longname" : "Xire's testbed - [NEQ]",
+         "longname" : "Xire's testbed - [Change in eqemu_config.json]",
          "shortname" : "xire",
          "tcp" : {
             "ip" : "127.0.0.1",
