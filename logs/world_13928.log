@@ -1,0 +1,29 @@
+[08-15-2021 :: 19:37:33] [World] [World Server] Setting to 'ecommons' (22:0)
+[08-15-2021 :: 19:37:33] [World] [World Server] Setting to 'ecommons' (22:0)
+[08-15-2021 :: 19:45:20] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7129, `guild_id` = '1']
+[08-15-2021 :: 19:45:20] [World] [World Server] Race: 4  Class: 1  Gender: 0  Deity: 396  Start zone: 9  Tutorial: true
+[08-15-2021 :: 19:45:20] [World] [World Server]  75  100  100   80   80   75   75     585
+[08-15-2021 :: 19:45:20] [World] [World Server] Current location: gfaydark (54)  283.00, 340.00, 77.09, 205.00
+[08-15-2021 :: 19:45:20] [World] [World Server] Bind location: gfaydark (54) 283.00, 340.00, 77.09
+[08-15-2021 :: 19:45:20] [World] [World Server] Home location: gfaydark (54) 283.00, 340.00, 77.09
+[08-15-2021 :: 19:45:20] [World] [World Server] Setting to 'gfaydark' (54:0)
+[08-15-2021 :: 19:45:20] [World] [World Server] Setting to 'gfaydark' (54:0)
+[08-15-2021 :: 19:45:45] [World] [World Server] Setting to 'ecommons' (22:0)
+[08-15-2021 :: 19:49:31] [World] [World Server] Setting to 'freportw' (9:0)
+[08-15-2021 :: 19:49:32] [World] [World Server] Setting to 'freportw' (9:0)
+[08-15-2021 :: 19:51:09] [World] [World Server] Setting to 'crushbone' (58:0)
+[08-15-2021 :: 19:51:10] [World] [World Server] Setting to 'crushbone' (58:0)
+[08-15-2021 :: 19:52:29] [World] [World Server] Setting to 'commons' (21:0)
+[08-15-2021 :: 19:52:30] [World] [World Server] Setting to 'commons' (21:0)
+[08-15-2021 :: 19:55:44] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7130, `guild_id` = '1']
+[08-15-2021 :: 19:55:44] [World] [World Server] Race: 1  Class: 1  Gender: 0  Deity: 396  Start zone: 4  Tutorial: true
+[08-15-2021 :: 19:55:44] [World] [World Server]  85  110   80   75   75   75   75     575
+[08-15-2021 :: 19:55:44] [World] [World Server] Current location: freportw (9)  -42.00, -309.00, -10.25, 0.00
+[08-15-2021 :: 19:55:44] [World] [World Server] Bind location: freportw (9) -42.00, -309.00, -10.25
+[08-15-2021 :: 19:55:44] [World] [World Server] Home location: freportw (9) -42.00, -309.00, -10.25
+[08-15-2021 :: 19:55:44] [World] [World Server] Setting to 'freportw' (9:0)
+[08-15-2021 :: 19:55:55] [World] [World Server] Setting to 'commons' (21:0)
+[08-15-2021 :: 19:58:27] [World] [World Server] Setting to 'freportw' (9:0)
+[08-15-2021 :: 20:05:04] [World] [World Server] Setting to 'freportw' (9:0)

@@ -1,0 +1,22 @@
+[08-11-2021 :: 09:51:36] [World] [World Server] Setting to 'qeynos2' (2:0)
+[08-11-2021 :: 09:51:36] [World] [World Server] Setting to 'qeynos2' (2:0)
+[08-11-2021 :: 09:54:08] [World] [World Server] Setting to 'qeynos' (1:0)
+[08-11-2021 :: 09:54:08] [World] [World Server] Setting to 'qeynos' (1:0)
+[08-11-2021 :: 09:54:33] [World] [World Server] Setting to 'qeynos2' (2:0)
+[08-24-2021 :: 15:21:06] [World] [Error] Error decrypting message from client
+[08-24-2021 :: 15:21:34] [World] [World Server] Setting to 'qeytoqrg' (4:0)
+[08-24-2021 :: 15:21:34] [World] [World Server] Setting to 'qeytoqrg' (4:0)
+[08-24-2021 :: 15:24:40] [World] [World Server] Setting to 'qeytoqrg' (4:0)
+[08-24-2021 :: 15:24:57] [World] [World Server] Setting to 'lakerathe' (51:0)
+[08-24-2021 :: 15:24:58] [World] [World Server] Setting to 'lakerathe' (51:0)
+[08-24-2021 :: 21:37:49] [World] [World Server] Setting to 'lakerathe' (51:0)
+[08-24-2021 :: 21:37:49] [World] [World Server] Setting to 'lakerathe' (51:0)
+[08-24-2021 :: 21:46:16] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7145, `guild_id` = '1']
+[08-24-2021 :: 21:46:16] [World] [World Server] Race: 1  Class: 12  Gender: 1  Deity: 201  Start zone: 1  Tutorial: true
+[08-24-2021 :: 21:46:16] [World] [World Server] 100   90   75   75   75   85   75     575
+[08-24-2021 :: 21:46:16] [World] [World Server] Current location: qcat (45)  -353.00, 309.00, -38.22, 0.00
+[08-24-2021 :: 21:46:16] [World] [World Server] Bind location: qeynos2 (2) -74.00, 428.00, 3.00
+[08-24-2021 :: 21:46:16] [World] [World Server] Home location: qcat (45) -353.00, 309.00, -38.22
+[08-24-2021 :: 21:46:17] [World] [World Server] Setting to 'qcat' (45:0)
+[08-24-2021 :: 21:46:17] [World] [World Server] Setting to 'qcat' (45:0)

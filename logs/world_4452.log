@@ -1,0 +1,13 @@
+[08-11-2021 :: 00:25:45] [World] [Error] Error decrypting message from client
+[08-11-2021 :: 00:26:08] [World] [World Server] Setting to 'qeynos' (1:0)
+[08-11-2021 :: 00:26:08] [World] [World Server] Setting to 'qeynos' (1:0)
+[08-11-2021 :: 00:26:20] [World] [World Server] Setting to 'qeynos2' (2:0)
+[08-11-2021 :: 00:26:20] [World] [World Server] Setting to 'qeynos2' (2:0)
+[08-11-2021 :: 00:28:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]
+[08-11-2021 :: 00:28:44] [World] [MySQL Error] [1146] [Table 'peq.adventure_stats' doesn't exist]
+[SELECT ch.name, ch.id, adv_stats.* FROM adventure_stats AS adv_stats LEFT JOIN `character_data` AS ch ON adv_stats.player_id = ch.id;]
+[08-11-2021 :: 00:29:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]
+[08-11-2021 :: 00:30:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]

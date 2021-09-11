@@ -1,0 +1,22 @@
+[08-11-2021 :: 07:45:26] [Login] [Error] Error decrypting message from client
+[08-11-2021 :: 07:45:26] [Login] [Error] Error decrypting message from client
+[08-11-2021 :: 07:45:26] [Login] [Error] Error decrypting message from client
+[08-11-2021 :: 07:45:26] [Login] [Error] Error decrypting message from client
+[08-11-2021 :: 07:45:26] [Login] [Error] Error decrypting message from client
+[08-11-2021 :: 07:45:26] [Login] [Error] Error decrypting message from client
+[08-11-2021 :: 07:45:26] [Login] [Error] Error decrypting message from client
+[08-11-2021 :: 07:45:26] [Login] [Error] Error decrypting message from client
+[08-11-2021 :: 07:45:26] [Login] [Error] Error decrypting message from client
+[08-11-2021 :: 07:45:26] [Login] [Error] Error decrypting message from client
+[08-11-2021 :: 07:45:26] [Login] [Error] Error decrypting message from client
+[08-11-2021 :: 07:45:26] [Login] [Error] Error parsing message from client: bad allocation
+[08-11-2021 :: 07:45:26] [Login] [Error] Error parsing message from client: bad allocation
+[08-11-2021 :: 07:45:26] [Login] [Error] Error parsing message from client: bad allocation
+[08-11-2021 :: 07:45:26] [Login] [Error] Error parsing message from client: bad allocation
+[08-11-2021 :: 07:45:26] [Login] [Error] Error parsing message from client: bad allocation
+[08-11-2021 :: 07:45:26] [Login] [Error] Error parsing message from client: bad allocation
+[08-11-2021 :: 07:45:26] [Login] [Error] Error parsing message from client: bad allocation
+[08-11-2021 :: 08:16:09] [Login] [MySQL Error] [1146] [Table 'peq.login_accounts' doesn't exist]
+[SELECT id, account_password FROM login_accounts WHERE account_name = 'marcusd' AND source_loginserver = 'local' LIMIT 1]
+[08-11-2021 :: 08:16:10] [Login] [MySQL Error] [1146] [Table 'peq.login_accounts' doesn't exist]
+[SELECT IFNULL(MAX(id), 0) + 1 FROM login_accounts WHERE source_loginserver = 'local']

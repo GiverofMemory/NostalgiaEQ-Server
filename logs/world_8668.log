@@ -1,0 +1,29 @@
+[08-11-2021 :: 10:01:20] [World] [Error] Error decrypting message from client
+[08-11-2021 :: 10:01:20] [World] [Error] Error decrypting message from client
+[08-11-2021 :: 10:01:20] [World] [Error] Error decrypting message from client
+[08-11-2021 :: 10:01:36] [World] [World Server] Setting to 'qeynos2' (2:0)
+[08-11-2021 :: 10:01:36] [World] [World Server] Setting to 'qeynos2' (2:0)
+[08-11-2021 :: 10:02:47] [World] [World Server] Setting to 'qeynos2' (2:0)
+[08-11-2021 :: 10:45:05] [World] [World Server] Setting to 'qeynos2' (2:0)
+[08-11-2021 :: 10:56:22] [World] [World Server] Setting to 'qeynos2' (2:0)
+[08-11-2021 :: 11:30:33] [World] [World Server] Setting to 'qeynos2' (2:0)
+[08-11-2021 :: 11:54:52] [World] [World Server] Setting to 'gfaydark' (54:0)
+[08-11-2021 :: 11:54:52] [World] [World Server] Setting to 'gfaydark' (54:0)
+[08-11-2021 :: 11:55:05] [World] [World Server] Setting to 'qeynos' (1:0)
+[08-11-2021 :: 11:55:07] [World] [World Server] Setting to 'qeynos' (1:0)
+[08-11-2021 :: 11:55:42] [World] [World Server] Setting to 'qeynos2' (2:0)
+[08-11-2021 :: 11:58:38] [World] [World Server] Setting to 'qeynos' (1:0)
+[08-11-2021 :: 11:59:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]
+[08-11-2021 :: 11:59:33] [World] [MySQL Error] [1146] [Table 'peq.account' doesn't exist]
+[SELECT charname FROM account WHERE id=2232]
+[08-11-2021 :: 12:00:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]
+[08-11-2021 :: 12:01:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]
+[08-11-2021 :: 12:01:19] [World] [MySQL Error] [1146] [Table 'peq.instance_list' doesn't exist]
+[SELECT id FROM instance_list where (start_time + duration) <= (UNIX_TIMESTAMP() - 86400) and never_expires = 0]
+[08-11-2021 :: 12:02:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]
+[08-11-2021 :: 12:03:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]

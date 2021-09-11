@@ -1,0 +1,14 @@
+[08-16-2021 :: 01:32:31] [World] [Error] Error decrypting message from client
+[08-16-2021 :: 01:32:31] [World] [Error] Error decrypting message from client
+[08-16-2021 :: 01:32:49] [World] [World Server] Setting to 'ecommons' (22:0)
+[08-16-2021 :: 01:32:49] [World] [World Server] Setting to 'ecommons' (22:0)
+[08-16-2021 :: 10:03:53] [World] [World Server] Setting to 'gfaydark' (54:0)
+[08-16-2021 :: 10:03:53] [World] [World Server] Setting to 'gfaydark' (54:0)
+[08-16-2021 :: 10:56:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]
+[08-16-2021 :: 10:56:32] [World] [MySQL Error] [1146] [Table 'peq.character_data' doesn't exist]
+[SELECT ch.name, ch.id, adv_stats.* FROM adventure_stats AS adv_stats LEFT JOIN `character_data` AS ch ON adv_stats.player_id = ch.id;]
+[08-16-2021 :: 10:57:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]
+[08-16-2021 :: 10:58:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]

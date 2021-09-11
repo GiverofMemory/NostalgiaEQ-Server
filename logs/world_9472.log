@@ -1,0 +1,6 @@
+[08-18-2021 :: 10:14:35] [World] [MySQL Error] [1062] [Duplicate entry 'marcusd-eqemu' for key 'name_ls_id']
+[INSERT INTO account SET name='marcusd', status=0, ls_id='eqemu', lsaccount_id=308605, time_creation=UNIX_TIMESTAMP();]
+[08-18-2021 :: 10:14:38] [World] [MySQL Error] [1062] [Duplicate entry 'marcusd-eqemu' for key 'name_ls_id']
+[INSERT INTO account SET name='marcusd', status=0, ls_id='eqemu', lsaccount_id=308605, time_creation=UNIX_TIMESTAMP();]
+[08-18-2021 :: 10:14:40] [World] [MySQL Error] [1062] [Duplicate entry 'marcusd-eqemu' for key 'name_ls_id']
+[INSERT INTO account SET name='marcusd', status=0, ls_id='eqemu', lsaccount_id=308605, time_creation=UNIX_TIMESTAMP();]

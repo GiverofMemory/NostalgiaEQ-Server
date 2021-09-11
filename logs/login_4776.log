@@ -1,0 +1,2 @@
+[08-06-2021 :: 02:57:25] [Login] [MySQL Error] [1406] [Data too long for column 'last_ip_address' at row 1]
+[UPDATE login_world_servers SET last_login_date = NOW(), last_ip_address = 'login.nostalgiaeq.com', long_name = 'Xire\'s testbed - [change in eqemu_config.json]' WHERE id = 6]

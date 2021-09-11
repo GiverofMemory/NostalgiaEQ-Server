@@ -1,0 +1,59 @@
+[08-25-2021 :: 01:48:41] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7174, `guild_id` = '1']
+[08-25-2021 :: 01:48:41] [World] [World Server] Race: 3  Class: 14  Gender: 0  Deity: 210  Start zone: 0  Tutorial: true
+[08-25-2021 :: 01:48:41] [World] [World Server]  85   75   70   70   83  117   80     580
+[08-25-2021 :: 01:48:41] [World] [World Server] Current location: erudnint (23)  753.00, 536.00, 83.72, 64.00
+[08-25-2021 :: 01:48:41] [World] [World Server] Bind location: (null) (0) 0.00, 0.00, 0.00
+[08-25-2021 :: 01:48:41] [World] [World Server] Home location: erudnint (23) 753.00, 536.00, 83.72
+[08-25-2021 :: 01:48:41] [World] [World Server] Setting to 'erudnint' (23:0)
+[08-25-2021 :: 01:48:41] [World] [World Server] Setting to 'erudnint' (23:0)
+[08-25-2021 :: 01:50:06] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7175, `guild_id` = '1']
+[08-25-2021 :: 01:50:06] [World] [World Server] Race: 3  Class: 3  Gender: 1  Deity: 209  Start zone: 0  Tutorial: true
+[08-25-2021 :: 01:50:06] [World] [World Server]  90   75   70   70   88  107   80     580
+[08-25-2021 :: 01:50:07] [World] [World Server] Current location: erudnext (24)  -374.00, -1040.00, 51.72, 192.00
+[08-25-2021 :: 01:50:07] [World] [World Server] Bind location: (null) (0) 0.00, 0.00, 0.00
+[08-25-2021 :: 01:50:07] [World] [World Server] Home location: erudnext (24) -374.00, -1040.00, 51.72
+[08-25-2021 :: 01:50:07] [World] [World Server] Setting to 'erudnext' (24:0)
+[08-25-2021 :: 01:50:07] [World] [World Server] Setting to 'erudnext' (24:0)
+[08-25-2021 :: 01:51:47] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7176, `guild_id` = '1']
+[08-25-2021 :: 01:51:48] [World] [World Server] Race: 1  Class: 14  Gender: 0  Deity: 201  Start zone: 1  Tutorial: true
+[08-25-2021 :: 01:51:48] [World] [World Server] 100   80   75   75   75   85   85     575
+[08-25-2021 :: 01:51:48] [World] [World Server] Current location: qcat (45)  -370.00, 397.00, -38.22, 0.00
+[08-25-2021 :: 01:51:48] [World] [World Server] Bind location: (null) (0) 0.00, 0.00, 0.00
+[08-25-2021 :: 01:51:48] [World] [World Server] Home location: qcat (45) -370.00, 397.00, -38.22
+[08-25-2021 :: 01:51:48] [World] [World Server] Setting to 'qcat' (45:0)
+[08-25-2021 :: 01:51:48] [World] [World Server] Setting to 'qcat' (45:0)
+[08-25-2021 :: 01:53:54] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7177, `guild_id` = '1']
+[08-25-2021 :: 01:53:54] [World] [World Server] Race: 1  Class: 14  Gender: 0  Deity: 201  Start zone: 1  Tutorial: true
+[08-25-2021 :: 01:53:54] [World] [World Server]  86   94   75   75   75   85   85     575
+[08-25-2021 :: 01:53:54] [World] [World Server] Current location: qcat (45)  -370.00, 397.00, -38.22, 0.00
+[08-25-2021 :: 01:53:54] [World] [World Server] Bind location: (null) (0) 0.00, 0.00, 0.00
+[08-25-2021 :: 01:53:54] [World] [World Server] Home location: qcat (45) -370.00, 397.00, -38.22
+[08-25-2021 :: 01:53:54] [World] [World Server] Setting to 'qcat' (45:0)
+[08-25-2021 :: 02:03:17] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7178, `guild_id` = '1']
+[08-25-2021 :: 02:03:17] [World] [World Server] Race: 1  Class: 2  Gender: 0  Deity: 201  Start zone: 1  Tutorial: true
+[08-25-2021 :: 02:03:17] [World] [World Server] 105   85   75   75   85   75   75     575
+[08-25-2021 :: 02:03:17] [World] [World Server] Current location: qcat (45)  -625.00, 354.00, -35.25, 0.00
+[08-25-2021 :: 02:03:17] [World] [World Server] Bind location: (null) (0) 0.00, 0.00, 0.00
+[08-25-2021 :: 02:03:17] [World] [World Server] Home location: qcat (45) -625.00, 354.00, -35.25
+[08-25-2021 :: 02:03:17] [World] [World Server] Setting to 'qcat' (45:0)
+[08-25-2021 :: 02:04:31] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7179, `guild_id` = '1']
+[08-25-2021 :: 02:04:32] [World] [World Server] Race: 1  Class: 14  Gender: 0  Deity: 201  Start zone: 1  Tutorial: true
+[08-25-2021 :: 02:04:32] [World] [World Server] 100   80   75   75   75   85   85     575
+[08-25-2021 :: 02:04:32] [World] [World Server] Current location: qcat (45)  -370.00, 397.00, -38.22, 0.00
+[08-25-2021 :: 02:04:32] [World] [World Server] Bind location: (null) (0) 0.00, 0.00, 0.00
+[08-25-2021 :: 02:04:32] [World] [World Server] Home location: qcat (45) -370.00, 397.00, -38.22
+[08-25-2021 :: 02:04:32] [World] [World Server] Setting to 'qcat' (45:0)
+[08-25-2021 :: 02:08:58] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7180, `guild_id` = '1']
+[08-25-2021 :: 02:08:58] [World] [World Server] Race: 1  Class: 12  Gender: 1  Deity: 201  Start zone: 1  Tutorial: true
+[08-25-2021 :: 02:08:58] [World] [World Server] 100   90   75   75   75   85   75     575
+[08-25-2021 :: 02:08:58] [World] [World Server] Current location: qcat (45)  -353.00, 309.00, -38.22, 0.00
+[08-25-2021 :: 02:08:58] [World] [World Server] Bind location: qeynos2 (2) -74.00, 428.00, 3.00
+[08-25-2021 :: 02:08:58] [World] [World Server] Home location: qcat (45) -353.00, 309.00, -38.22
+[08-25-2021 :: 02:08:58] [World] [World Server] Setting to 'qcat' (45:0)

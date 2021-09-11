@@ -1,0 +1,14 @@
+[08-18-2021 :: 13:03:08] [World] [World Server] Setting to 'commons' (21:0)
+[08-18-2021 :: 13:03:08] [World] [World Server] Setting to 'commons' (21:0)
+[08-18-2021 :: 13:06:44] [World] [World Server] Setting to 'commons' (21:0)
+[08-18-2021 :: 13:16:49] [World] [World Server] Setting to 'qrg' (3:0)
+[08-18-2021 :: 13:16:50] [World] [World Server] Setting to 'qrg' (3:0)
+[08-19-2021 :: 09:50:38] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7131, `guild_id` = '1']
+[08-19-2021 :: 09:50:38] [World] [World Server] Race: 1  Class: 9  Gender: 0  Deity: 396  Start zone: 4  Tutorial: true
+[08-19-2021 :: 09:50:38] [World] [World Server]  80  100   85   85   75   75   75     575
+[08-19-2021 :: 09:50:38] [World] [World Server] Current location: freporte (10)  -864.00, -321.00, -108.22, 0.00
+[08-19-2021 :: 09:50:38] [World] [World Server] Bind location: freporte (10) -864.00, -321.00, -108.22
+[08-19-2021 :: 09:50:38] [World] [World Server] Home location: freporte (10) -864.00, -321.00, -108.22
+[08-19-2021 :: 09:50:39] [World] [World Server] Setting to 'freporte' (10:0)
+[08-19-2021 :: 09:50:39] [World] [World Server] Setting to 'freporte' (10:0)

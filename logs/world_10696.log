@@ -1,0 +1,27 @@
+[08-08-2021 :: 00:40:54] [World] [Error] Error decrypting message from client
+[08-08-2021 :: 00:40:54] [World] [Error] Error decrypting message from client
+[08-08-2021 :: 00:41:29] [World] [World Server] Setting to 'commons' (21:0)
+[08-08-2021 :: 00:41:29] [World] [World Server] Setting to 'commons' (21:0)
+[08-08-2021 :: 00:41:42] [World] [World Server] Setting to 'ecommons' (22:0)
+[08-08-2021 :: 00:41:43] [World] [World Server] Setting to 'ecommons' (22:0)
+[08-08-2021 :: 00:41:49] [World] [World Server] Setting to 'commons' (21:0)
+[08-11-2021 :: 07:45:26] [World] [Error] Error decrypting message from client
+[08-11-2021 :: 08:13:43] [World] [World Server] Setting to 'qeynos2' (2:0)
+[08-11-2021 :: 08:13:43] [World] [World Server] Setting to 'qeynos2' (2:0)
+[08-11-2021 :: 08:13:54] [World] [World Server] Setting to 'nro' (34:0)
+[08-11-2021 :: 08:13:55] [World] [World Server] Setting to 'nro' (34:0)
+[08-11-2021 :: 08:15:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]
+[08-11-2021 :: 08:15:25] [World] [MySQL Error] [1146] [Table 'peq.instance_list' doesn't exist]
+[SELECT id FROM instance_list where (start_time + duration) <= (UNIX_TIMESTAMP() - 86400) and never_expires = 0]
+[08-11-2021 :: 08:15:25] [World] [MySQL Error] [1146] [Table 'peq.data_buckets' doesn't exist]
+[DELETE FROM `data_buckets` WHERE (`expires` < 1628694925 AND `expires` > 0)]
+[08-11-2021 :: 08:15:25] [World] [MySQL Error] [1146] [Table 'peq.character_expedition_lockouts' doesn't exist]
+[DELETE FROM character_expedition_lockouts WHERE expire_time <= NOW();]
+[08-11-2021 :: 08:15:25] [World] [MySQL Error] [1146] [Table 'peq.eqtime' doesn't exist]
+[UPDATE eqtime set minute = 38, hour = 2, day = 14, month = 3, year = 3894, realtime = 1628694925 limit 1]
+[08-11-2021 :: 08:15:25] [World] [Error] Failed to save eqtime
+[08-11-2021 :: 08:15:25] [World] [MySQL Error] [1146] [Table 'peq.adventure_stats' doesn't exist]
+[SELECT ch.name, ch.id, adv_stats.* FROM adventure_stats AS adv_stats LEFT JOIN `character_data` AS ch ON adv_stats.player_id = ch.id;]
+[08-11-2021 :: 08:16:00] [World] [MySQL Error] [1146] [Table 'peq.server_scheduled_events' doesn't exist]
+[SELECT id, description, event_type, event_data, minute_start, hour_start, day_start, month_start, year_start, minute_end, hour_end, day_end, month_end, year_end, cron_expression, created_at, deleted_at FROM server_scheduled_events WHERE deleted_at is null]

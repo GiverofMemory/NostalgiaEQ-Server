@@ -1,0 +1,11 @@
+[08-25-2021 :: 02:35:34] [World] [Error] Error decrypting message from client
+[08-25-2021 :: 02:35:34] [World] [Error] Error decrypting message from client
+[08-25-2021 :: 02:36:22] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7183, `guild_id` = '1']
+[08-25-2021 :: 02:36:22] [World] [World Server] Race: 1  Class: 1  Gender: 1  Deity: 201  Start zone: 1  Tutorial: true
+[08-25-2021 :: 02:36:22] [World] [World Server] 110   85   80   75   75   75   75     575
+[08-25-2021 :: 02:36:22] [World] [World Server] Current location: qcat (45)  -510.00, 57.00, 31.75, 0.00
+[08-25-2021 :: 02:36:22] [World] [World Server] Bind location: (null) (0) 0.00, 0.00, 0.00
+[08-25-2021 :: 02:36:22] [World] [World Server] Home location: qcat (45) -510.00, 57.00, 31.75
+[08-25-2021 :: 02:36:22] [World] [World Server] Setting to 'qcat' (45:0)
+[08-25-2021 :: 02:36:22] [World] [World Server] Setting to 'qcat' (45:0)

@@ -1,0 +1,28 @@
+[08-25-2021 :: 15:46:46] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7219, `guild_id` = '1']
+[08-25-2021 :: 15:46:47] [World] [World Server] Race: 1  Class: 6  Gender: 0  Deity: 215  Start zone: 1  Tutorial: true
+[08-25-2021 :: 15:46:47] [World] [World Server]  88  102   75   75   85   75   75     575
+[08-25-2021 :: 15:46:47] [World] [World Server] Current location: qrg (3)  -430.00, -209.00, 6.75, 192.00
+[08-25-2021 :: 15:46:47] [World] [World Server] Bind location: (null) (0) 0.00, 0.00, 0.00
+[08-25-2021 :: 15:46:47] [World] [World Server] Home location: qrg (3) -430.00, -209.00, 6.75
+[08-25-2021 :: 15:46:47] [World] [World Server] Setting to 'qrg' (3:0)
+[08-25-2021 :: 15:46:47] [World] [World Server] Setting to 'qrg' (3:0)
+[08-25-2021 :: 22:59:42] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7220, `guild_id` = '1']
+[08-25-2021 :: 22:59:42] [World] [World Server] Race: 1  Class: 7  Gender: 0  Deity: 396  Start zone: 1  Tutorial: true
+[08-25-2021 :: 22:59:42] [World] [World Server]  95   80   90   85   75   75   75     575
+[08-25-2021 :: 22:59:42] [World] [World Server] Current location: qeynos2 (2)  288.00, 344.00, 3.75, 64.00
+[08-25-2021 :: 22:59:42] [World] [World Server] Bind location: (null) (0) 0.00, 0.00, 0.00
+[08-25-2021 :: 22:59:42] [World] [World Server] Home location: qeynos2 (2) 288.00, 344.00, 3.75
+[08-25-2021 :: 22:59:43] [World] [World Server] Setting to 'qeynos2' (2:0)
+[08-25-2021 :: 22:59:43] [World] [World Server] Setting to 'qeynos2' (2:0)
+[08-25-2021 :: 23:15:41] [World] [World Server] Setting to 'qeynos2' (2:0)
+[08-25-2021 :: 23:18:19] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7221, `guild_id` = '1']
+[08-25-2021 :: 23:18:19] [World] [World Server] Race: 1  Class: 2  Gender: 0  Deity: 208  Start zone: 4  Tutorial: true
+[08-25-2021 :: 23:18:19] [World] [World Server]  92   98   75   75   85   75   75     575
+[08-25-2021 :: 23:18:19] [World] [World Server] Current location: freportn (8)  201.00, -126.00, 17.75, 0.00
+[08-25-2021 :: 23:18:19] [World] [World Server] Bind location: (null) (0) 0.00, 0.00, 0.00
+[08-25-2021 :: 23:18:19] [World] [World Server] Home location: freportn (8) 201.00, -126.00, 17.75
+[08-25-2021 :: 23:18:20] [World] [World Server] Setting to 'freportn' (8:0)
+[08-25-2021 :: 23:18:20] [World] [World Server] Setting to 'freportn' (8:0)

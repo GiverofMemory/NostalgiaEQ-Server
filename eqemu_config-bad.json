@@ -1,0 +1,74 @@
+{
+   "server" : {
+      "chatserver" : {
+         "host" : "",
+         "port" : "7778"
+      },
+      "database" : {
+         "db" : "peq",
+         "host" : "127.0.0.1",
+         "password" : "eqemu",
+         "port" : "3306",
+         "username" : "root"
+      },
+      "directories" : {
+         "opcodes" : "assets/opcodes/",
+         "patches" : "assets/patches/"
+      },
+      "files" : {
+         "mail_opcodes" : "assets/opcodes/mail_opcodes.conf",
+         "opcodes" : "assets/opcodes/opcodes.conf"
+      },
+      "mailserver" : {
+         "host" : "",
+         "port" : "7778"
+      },
+      "qsdatabase" : {
+         "db" : "peq",
+         "host" : "127.0.0.1",
+         "password" : "eqemu",
+         "port" : "3306",
+         "username" : "root"
+      },
+      "world" : {
+         "key" : "3Nvq79koqlLd3OGcjQx8QJg5kDpzKK4",
+         "loginserver1" : {
+            "account" : "",
+            "host" : "login.nostalgiaeq.com",
+            "password" : "",
+            "port" : "5998"
+         },
+         "loginserver2" : {
+            "account" : "",
+            "host" : "72.14.176.57",
+            "password" : "",
+            "port" : "5998"
+         },
+         "loginserver3" : {
+            "account" : "",
+            "host" : "login.eqemulator.org",
+            "password" : "",
+	    "legacy" : "1",
+            "port" : "5998"
+         },
+         "longname" : "Xire's testbed - [NEQ]",
+         "shortname" : "xire",
+         "tcp" : {
+            "ip" : "127.0.0.1",
+            "port" : "9001"
+         },
+         "telnet" : {
+            "enabled" : "true",
+            "ip" : "0.0.0.0",
+            "port" : "9000"
+         }
+      },
+      "zones" : {
+         "defaultstatus" : "0",
+         "ports" : {
+            "high" : "7400",
+            "low" : "7000"
+         }
+      }
+   }
+}

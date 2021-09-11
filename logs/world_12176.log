@@ -1,0 +1,13 @@
+[08-26-2021 :: 22:40:36] [World] [World Server] Setting to 'commons' (21:0)
+[08-26-2021 :: 22:40:36] [World] [World Server] Setting to 'commons' (21:0)
+[08-26-2021 :: 22:42:23] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7232, `guild_id` = '1']
+[08-26-2021 :: 22:42:23] [World] [World Server] Race: 1  Class: 14  Gender: 1  Deity: 396  Start zone: 4  Tutorial: true
+[08-26-2021 :: 22:42:23] [World] [World Server]  88   92   75   75   75   85   85     575
+[08-26-2021 :: 22:42:23] [World] [World Server] Current location: freportw (9)  72.00, -812.00, -52.22, 0.00
+[08-26-2021 :: 22:42:23] [World] [World Server] Bind location: (null) (0) 0.00, 0.00, 0.00
+[08-26-2021 :: 22:42:23] [World] [World Server] Home location: freportw (9) 72.00, -812.00, -52.22
+[08-26-2021 :: 22:42:24] [World] [World Server] Setting to 'freportw' (9:0)
+[08-26-2021 :: 22:42:24] [World] [World Server] Setting to 'freportw' (9:0)
+[08-27-2021 :: 15:36:44] [World] [World Server] Setting to 'lakerathe' (51:0)
+[08-27-2021 :: 15:36:45] [World] [World Server] Setting to 'lakerathe' (51:0)

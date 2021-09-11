@@ -1,0 +1,9 @@
+[08-25-2021 :: 00:21:46] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7158, `guild_id` = '1']
+[08-25-2021 :: 00:21:46] [World] [World Server] Race: 3  Class: 12  Gender: 0  Deity: 396  Start zone: 0  Tutorial: true
+[08-25-2021 :: 00:21:46] [World] [World Server]  85   85   70   70   83  117   70     580
+[08-25-2021 :: 00:21:46] [World] [World Server] Current location: erudnint (23)  740.00, 887.00, 83.72, 192.00
+[08-25-2021 :: 00:21:46] [World] [World Server] Bind location: (null) (0) 0.00, 0.00, 0.00
+[08-25-2021 :: 00:21:46] [World] [World Server] Home location: erudnint (23) 740.00, 887.00, 83.72
+[08-25-2021 :: 00:21:46] [World] [World Server] Setting to 'erudnint' (23:0)
+[08-25-2021 :: 00:21:46] [World] [World Server] Setting to 'erudnint' (23:0)

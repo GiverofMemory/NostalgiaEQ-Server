@@ -1,0 +1,28 @@
+[08-24-2021 :: 22:37:19] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7146, `guild_id` = '1']
+[08-24-2021 :: 22:37:20] [World] [World Server] Race: 1  Class: 2  Gender: 1  Deity: 201  Start zone: 1  Tutorial: true
+[08-24-2021 :: 22:37:20] [World] [World Server] 105   85   75   75   85   75   75     575
+[08-24-2021 :: 22:37:20] [World] [World Server] Current location: qcat (45)  -625.00, 354.00, -35.25, 0.00
+[08-24-2021 :: 22:37:20] [World] [World Server] Bind location: (null) (0) 0.00, 0.00, 0.00
+[08-24-2021 :: 22:37:20] [World] [World Server] Home location: qcat (45) -625.00, 354.00, -35.25
+[08-24-2021 :: 22:37:20] [World] [World Server] Setting to 'qcat' (45:0)
+[08-24-2021 :: 22:37:20] [World] [World Server] Setting to 'qcat' (45:0)
+[08-24-2021 :: 22:38:56] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7147, `guild_id` = '1']
+[08-24-2021 :: 22:38:57] [World] [World Server] Race: 1  Class: 7  Gender: 1  Deity: 396  Start zone: 1  Tutorial: true
+[08-24-2021 :: 22:38:57] [World] [World Server] 100   80   85   85   75   75   75     575
+[08-24-2021 :: 22:38:57] [World] [World Server] Current location: qeynos2 (2)  288.00, 344.00, 3.75, 64.00
+[08-24-2021 :: 22:38:57] [World] [World Server] Bind location: (null) (0) 0.00, 0.00, 0.00
+[08-24-2021 :: 22:38:57] [World] [World Server] Home location: qeynos2 (2) 288.00, 344.00, 3.75
+[08-24-2021 :: 22:38:57] [World] [World Server] Setting to 'qeynos2' (2:0)
+[08-24-2021 :: 22:38:57] [World] [World Server] Setting to 'qeynos2' (2:0)
+[08-24-2021 :: 22:41:15] [World] [World Server] Setting to 'qeynos2' (2:0)
+[08-24-2021 :: 22:42:14] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7148, `guild_id` = '1']
+[08-24-2021 :: 22:42:15] [World] [World Server] Race: 10  Class: 10  Gender: 1  Deity: 211  Start zone: 7  Tutorial: true
+[08-24-2021 :: 22:42:15] [World] [World Server] 150  137   70   70   77   60   42     606
+[08-24-2021 :: 22:42:15] [World] [World Server] Current location: oggok (49)  991.00, 648.00, 81.70, 143.00
+[08-24-2021 :: 22:42:15] [World] [World Server] Bind location: (null) (0) 0.00, 0.00, 0.00
+[08-24-2021 :: 22:42:15] [World] [World Server] Home location: oggok (49) 991.00, 648.00, 81.70
+[08-24-2021 :: 22:42:15] [World] [World Server] Setting to 'oggok' (49:0)
+[08-24-2021 :: 22:42:15] [World] [World Server] Setting to 'oggok' (49:0)

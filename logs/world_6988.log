@@ -1,0 +1,75 @@
+[08-25-2021 :: 13:09:45] [World] [Error] Error decrypting message from client
+[08-25-2021 :: 13:10:53] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7210, `guild_id` = '1']
+[08-25-2021 :: 13:10:53] [World] [World Server] Race: 1  Class: 14  Gender: 0  Deity: 208  Start zone: 4  Tutorial: true
+[08-25-2021 :: 13:10:53] [World] [World Server]  86   94   75   75   75   85   85     575
+[08-25-2021 :: 13:10:53] [World] [World Server] Current location: freportw (9)  72.00, -812.00, -52.22, 0.00
+[08-25-2021 :: 13:10:53] [World] [World Server] Bind location: (null) (0) 0.00, 0.00, 0.00
+[08-25-2021 :: 13:10:53] [World] [World Server] Home location: freportw (9) 72.00, -812.00, -52.22
+[08-25-2021 :: 13:10:54] [World] [World Server] Setting to 'freportw' (9:0)
+[08-25-2021 :: 13:10:54] [World] [World Server] Setting to 'freportw' (9:0)
+[08-25-2021 :: 13:12:17] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7211, `guild_id` = '1']
+[08-25-2021 :: 13:12:18] [World] [World Server] Race: 1  Class: 2  Gender: 1  Deity: 208  Start zone: 4  Tutorial: true
+[08-25-2021 :: 13:12:18] [World] [World Server]  96   94   75   75   85   75   75     575
+[08-25-2021 :: 13:12:18] [World] [World Server] Current location: freportn (8)  201.00, -126.00, 17.75, 0.00
+[08-25-2021 :: 13:12:18] [World] [World Server] Bind location: (null) (0) 0.00, 0.00, 0.00
+[08-25-2021 :: 13:12:18] [World] [World Server] Home location: freportn (8) 201.00, -126.00, 17.75
+[08-25-2021 :: 13:12:18] [World] [World Server] Setting to 'freportn' (8:0)
+[08-25-2021 :: 13:12:18] [World] [World Server] Setting to 'freportn' (8:0)
+[08-25-2021 :: 13:13:55] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7212, `guild_id` = '1']
+[08-25-2021 :: 13:13:55] [World] [World Server] Race: 1  Class: 2  Gender: 1  Deity: 204  Start zone: 4  Tutorial: true
+[08-25-2021 :: 13:13:55] [World] [World Server]  90   80   95   75   85   75   75     575
+[08-25-2021 :: 13:13:55] [World] [World Server] Current location: freportn (8)  335.00, 147.00, 73.72, 0.00
+[08-25-2021 :: 13:13:55] [World] [World Server] Bind location: (null) (0) 0.00, 0.00, 0.00
+[08-25-2021 :: 13:13:55] [World] [World Server] Home location: freportn (8) 335.00, 147.00, 73.72
+[08-25-2021 :: 13:13:55] [World] [World Server] Setting to 'freportn' (8:0)
+[08-25-2021 :: 13:41:10] [World] [World Server] Setting to 'freportn' (8:0)
+[08-25-2021 :: 13:50:06] [World] [World Server] Setting to 'nektulos' (25:0)
+[08-25-2021 :: 13:50:06] [World] [World Server] Setting to 'nektulos' (25:0)
+[08-25-2021 :: 13:50:12] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7213, `guild_id` = '1']
+[08-25-2021 :: 13:50:12] [World] [World Server] Race: 1  Class: 13  Gender: 1  Deity: 208  Start zone: 4  Tutorial: true
+[08-25-2021 :: 13:50:12] [World] [World Server]  96   85   75   84   75   85   75     575
+[08-25-2021 :: 13:50:12] [World] [World Server] Current location: freportw (9)  -747.00, 146.00, 31.75, 0.00
+[08-25-2021 :: 13:50:12] [World] [World Server] Bind location: (null) (0) 0.00, 0.00, 0.00
+[08-25-2021 :: 13:50:12] [World] [World Server] Home location: freportw (9) -747.00, 146.00, 31.75
+[08-25-2021 :: 13:50:12] [World] [World Server] Setting to 'freportw' (9:0)
+[08-25-2021 :: 13:51:06] [World] [World Server] Setting to 'nektulos' (25:0)
+[08-25-2021 :: 13:54:36] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7214, `guild_id` = '1']
+[08-25-2021 :: 13:54:36] [World] [World Server] Race: 1  Class: 6  Gender: 0  Deity: 215  Start zone: 1  Tutorial: true
+[08-25-2021 :: 13:54:36] [World] [World Server]  86  104   75   75   85   75   75     575
+[08-25-2021 :: 13:54:36] [World] [World Server] Current location: qrg (3)  -430.00, -209.00, 6.75, 192.00
+[08-25-2021 :: 13:54:36] [World] [World Server] Bind location: (null) (0) 0.00, 0.00, 0.00
+[08-25-2021 :: 13:54:36] [World] [World Server] Home location: qrg (3) -430.00, -209.00, 6.75
+[08-25-2021 :: 13:54:36] [World] [World Server] Setting to 'qrg' (3:0)
+[08-25-2021 :: 13:54:36] [World] [World Server] Setting to 'qrg' (3:0)
+[08-25-2021 :: 14:00:47] [World] [World Server] Setting to 'neriakc' (42:0)
+[08-25-2021 :: 14:00:48] [World] [World Server] Setting to 'neriakc' (42:0)
+[08-25-2021 :: 14:03:01] [World] [World Server] Setting to 'neriakb' (41:0)
+[08-25-2021 :: 14:03:02] [World] [World Server] Setting to 'neriakb' (41:0)
+[08-25-2021 :: 14:03:09] [World] [World Server] Setting to 'neriakc' (42:0)
+[08-25-2021 :: 14:03:22] [World] [World Server] Setting to 'neriakb' (41:0)
+[08-25-2021 :: 14:03:37] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7215, `guild_id` = '1']
+[08-25-2021 :: 14:03:37] [World] [World Server] Race: 1  Class: 2  Gender: 0  Deity: 204  Start zone: 4  Tutorial: true
+[08-25-2021 :: 14:03:37] [World] [World Server]  93   97   75   75   85   75   75     575
+[08-25-2021 :: 14:03:37] [World] [World Server] Current location: freportn (8)  335.00, 147.00, 73.72, 0.00
+[08-25-2021 :: 14:03:37] [World] [World Server] Bind location: (null) (0) 0.00, 0.00, 0.00
+[08-25-2021 :: 14:03:37] [World] [World Server] Home location: freportn (8) 335.00, 147.00, 73.72
+[08-25-2021 :: 14:03:38] [World] [World Server] Setting to 'freportn' (8:0)
+[08-25-2021 :: 14:04:04] [World] [World Server] Setting to 'neriaka' (40:0)
+[08-25-2021 :: 14:04:06] [World] [World Server] Setting to 'neriaka' (40:0)
+[08-25-2021 :: 14:05:11] [World] [World Server] Setting to 'nektulos' (25:0)
+[08-25-2021 :: 14:06:05] [World] [MySQL Error] [1364] [Field 'public_note' doesn't have a default value]
+[INSERT INTO `guild_members` SET `char_id` = 7216, `guild_id` = '1']
+[08-25-2021 :: 14:06:05] [World] [World Server] Race: 6  Class: 12  Gender: 0  Deity: 396  Start zone: 5  Tutorial: true
+[08-25-2021 :: 14:06:05] [World] [World Server]  72   93   90   75   83  109   60     582
+[08-25-2021 :: 14:06:05] [World] [World Server] Current location: neriakb (41)  -947.00, 141.00, -38.84, 192.00
+[08-25-2021 :: 14:06:05] [World] [World Server] Bind location: (null) (0) 0.00, 0.00, 0.00
+[08-25-2021 :: 14:06:05] [World] [World Server] Home location: neriakb (41) -947.00, 141.00, -38.84
+[08-25-2021 :: 14:06:05] [World] [World Server] Setting to 'neriakb' (41:0)
+[08-25-2021 :: 14:11:44] [World] [World Server] Setting to 'qrg' (3:0)
+[08-25-2021 :: 14:19:41] [World] [World Server] Setting to 'qrg' (3:0)
